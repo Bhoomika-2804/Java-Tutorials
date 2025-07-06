@@ -1,3 +1,5 @@
+//Print Second Largest Element
+//If There is no Second Largest Element Then print -1
 import java.util.*;
 class SecondLargestElement {
     public static int secondLargestElement(int[] nums) {
