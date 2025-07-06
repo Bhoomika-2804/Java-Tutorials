@@ -28,3 +28,34 @@ public class RightAngledWithSpace {
     }
 }
 
+
+
+// Input: Enter the number of rows: 5
+//Output: *
+//        * *
+//        *   *
+//        *     *
+//        * * * * *
+
+// Input: Enter the number of rows: 4
+//Output: * 
+//        * *
+//        *   *
+//        * * * *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
