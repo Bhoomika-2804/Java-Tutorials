@@ -24,3 +24,18 @@ public class Square {
         solve();
     }
 }
+
+
+//Input: Enter the size of the square: 3
+//Output: * * *
+//        *   *
+//        * * *
+
+//Input: Enter the size of the square: 6
+//Output: * * * * * * 
+//        *         *
+//        *         *
+//        *         *
+//        *         *
+//        * * * * * *
+ 
