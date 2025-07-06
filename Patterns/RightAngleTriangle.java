@@ -16,3 +16,10 @@ public class RightAngleTriangle{
         
     }
 }
+
+// Input : 5
+// Output:* 
+//        * *
+//        * * *
+//        * * * *
+//        * * * * * 
