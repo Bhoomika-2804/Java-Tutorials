@@ -15,3 +15,25 @@ public class SquareWall {
         scanner.close();
     }
 }
+
+
+
+
+/* Input: Enter the size of the wall (number of bricks per side): 5
+   Output:
+       Generated Square Wall:
+       * * * * *
+       * * * * *
+       * * * * *
+       * * * * *
+       * * * * * 
+Explanation: It's a Perfect Square Wall /*
+
+/* Input: Enter the size of the wall (number of bricks per side): 3
+   Output:
+       Generated Square Wall:
+       * * * 
+       * * * 
+       * * * 
+Explanation: It's a Perfect Square Wall /*
+
